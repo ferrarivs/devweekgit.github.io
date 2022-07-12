@@ -1,2 +1,2 @@
-# devweekgit.github.io
+# ferrarivs.github.io
 Currículo do Jornada Dev
